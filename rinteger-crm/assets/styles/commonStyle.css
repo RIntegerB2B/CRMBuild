@@ -5,3 +5,19 @@ body {
   font-size: 13px;
   font-weight: 500;
 }
+
+.topbar-button-right {
+  margin-left: 1rem !important;
+}
+
+
+  .topbar-button-right {
+    margin-right: 1rem;
+    margin-left: 0 !important;
+  }
+
+  .mat-menu-item {
+    width: 48px;
+    height: 48px;
+    padding: 5px;
+  }
