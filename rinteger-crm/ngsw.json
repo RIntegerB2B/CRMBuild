@@ -9,11 +9,11 @@
       "urls": [
         "/admin/crm/favicon.ico",
         "/admin/crm/index.html",
-        "/admin/crm/main.7b29342ee564a817f1aa.js",
+        "/admin/crm/main.4fe843a5043d00bd7790.js",
         "/admin/crm/polyfills.7a0e6866a34e280f48e7.js",
         "/admin/crm/runtime.a66f828dca56eeb90e02.js",
         "/admin/crm/scripts.ee7fed27c36eaa5fa8a9.js",
-        "/admin/crm/styles.c42caabebcd90c89b783.css"
+        "/admin/crm/styles.02ed7c80bf8f82da933d.css"
       ],
       "patterns": []
     },
@@ -47,16 +47,16 @@
     "/admin/crm/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/admin/crm/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/admin/crm/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/admin/crm/assets/styles/angularStyle.css": "44251687022b54e01d0ffbe135fc6ae63abbbe2f",
+    "/admin/crm/assets/styles/angularStyle.css": "ab65d1d2eaa38dbf94b9d7cfb7af541857aa6087",
     "/admin/crm/assets/styles/bootstrapOverride.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/admin/crm/assets/styles/commonStyle.css": "597f4a2b8b4a44371830107b7d78542a77e30425",
+    "/admin/crm/assets/styles/commonStyle.css": "2aaadb1f8fd465c9983742068be54526bdc7df4b",
     "/admin/crm/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/admin/crm/index.html": "8506f2c04acd729d9a507d553afeee44d8483ab4",
-    "/admin/crm/main.7b29342ee564a817f1aa.js": "6b7e0ba460bc16c541a6ed2f01aa472f6eab7476",
+    "/admin/crm/index.html": "e766b8a8bd7c355e219d43fe230156da8ef9c12b",
+    "/admin/crm/main.4fe843a5043d00bd7790.js": "5d79c5eb66f61f952f00184f779f5c999cf9b87a",
     "/admin/crm/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "/admin/crm/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/admin/crm/scripts.ee7fed27c36eaa5fa8a9.js": "d6743195b55ce5c4c3e1164a92cac8ae3a6ef498",
-    "/admin/crm/styles.c42caabebcd90c89b783.css": "741220eb88d673d77c1ccf99f790fc4438051d7a"
+    "/admin/crm/styles.02ed7c80bf8f82da933d.css": "85faec0f284042e35ddc8b12947278a9b0d7445b"
   },
   "navigationUrls": [
     {
