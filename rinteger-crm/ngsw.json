@@ -9,11 +9,11 @@
       "urls": [
         "/admin/crm/favicon.ico",
         "/admin/crm/index.html",
-        "/admin/crm/main.55adb4125c3603b2bec3.js",
+        "/admin/crm/main.601f09200c007ad63023.js",
         "/admin/crm/polyfills.7a0e6866a34e280f48e7.js",
         "/admin/crm/runtime.a66f828dca56eeb90e02.js",
         "/admin/crm/scripts.ee7fed27c36eaa5fa8a9.js",
-        "/admin/crm/styles.ed445288ae05fac94d77.css"
+        "/admin/crm/styles.330a4ea52b45f8564f24.css"
       ],
       "patterns": []
     },
@@ -51,14 +51,14 @@
     "/admin/crm/assets/images/logo.png": "b88ffeecc07df24c3a488f26c8a2b48215f67050",
     "/admin/crm/assets/styles/angularStyle.css": "a18e444bf377f525534e157f509729e792a63da9",
     "/admin/crm/assets/styles/bootstrapOverride.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/admin/crm/assets/styles/commonStyle.css": "a748e50f4151465ba5c428466b4091cfa757bb66",
+    "/admin/crm/assets/styles/commonStyle.css": "8402ad38e2d56e60055a16cf490609ea0b6e044b",
     "/admin/crm/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/admin/crm/index.html": "39d2f55500e92f2f38a637f2fa0e5bc4854a6c12",
-    "/admin/crm/main.55adb4125c3603b2bec3.js": "0d0bd55ff2a48a6de6fd7f3e29479c8dd18b4f33",
+    "/admin/crm/index.html": "6baf779d99d191213a4723a81e44d36bbfb8e780",
+    "/admin/crm/main.601f09200c007ad63023.js": "f652e45974272ec684462e1f36a16e3b60ab83c0",
     "/admin/crm/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "/admin/crm/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/admin/crm/scripts.ee7fed27c36eaa5fa8a9.js": "d6743195b55ce5c4c3e1164a92cac8ae3a6ef498",
-    "/admin/crm/styles.ed445288ae05fac94d77.css": "a105507527286284bf56a987a544403470bf78c6"
+    "/admin/crm/styles.330a4ea52b45f8564f24.css": "4646bc1f3cdcf09828d53fda1d1216ac8d6d6a18"
   },
   "navigationUrls": [
     {
